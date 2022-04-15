@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./Header.css";
 import { deviceType, isMobile } from "react-device-detect";
 import classNames from "classnames";
 import PropTypes from "prop-types";

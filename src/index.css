@@ -11,25 +11,3 @@ code {
     font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
         monospace;
 }
-
-.common-header {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-
-.common-header .p-menubar {
-    border-radius: 0;
-}
-
-.common-header .p-menubar-root-list {
-    width: 100%;
-}
-
-.common-header .p-menubar-root-list .p-menu-separator {
-    flex: 1;
-}
-
-.common-header .p-menubar-root-list .p-submenu-list {
-    width: 240px;
-}
